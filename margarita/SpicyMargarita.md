@@ -7,3 +7,9 @@
  * 1 part [simple syrup](../sundry/SimpleSyrup.md)
 
 shake with crushed ice or blend.
+
+option:
+add some lime pulp. I use a spoon and scrape the pulp out of a spent lime. put the pulp into the glass not the shaker, it will clog the shaker.
+
+pineapple option:
+add a chunk or two of pineapple and muddle in target glass. use less lime juice.
