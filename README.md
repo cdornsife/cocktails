@@ -2,6 +2,12 @@
 
 this repository was made to store what I consider to be the best representation of a particular cocktail. 
 
+### recipes
+
+[spicy margarita](spicy-margarita.md)  
+[margarita](margarita.md)  
+[old fashioned](old-fashioned.md)  
+
 ### can i too make awesome cocktails?
 
 do you have to:
