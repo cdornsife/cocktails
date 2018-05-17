@@ -6,7 +6,7 @@ this repository was made to store what I consider to be the best representation 
 
 [spicy margarita](spicy-margarita.md)  
 [margarita](margarita.md)  
-[old fashioned](old-fashioned.md) 
+[old fashioned](old-fashioned.md)  
 [manhattan](manhattan.md)
 
 ### can i too make awesome cocktails?
