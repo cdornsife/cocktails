@@ -8,6 +8,7 @@ this repository was made to store what I consider to be the best representation 
 [margarita](margarita.md)  
 [old fashioned](old-fashioned.md)  
 [manhattan](manhattan.md)
+[mojito](mojito.md)
 
 ### can i too make awesome cocktails?
 
